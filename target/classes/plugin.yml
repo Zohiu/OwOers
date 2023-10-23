@@ -1,0 +1,8 @@
+name: OwOers
+version: '1.0'
+main: de.zohiu.owoers.OwOers
+api-version: '1.20'
+depend: ['Multiverse-Core']
+commands:
+  start:
+    usage: /start
